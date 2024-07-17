@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/VCube Indonesia/01-Vcube_Products_and_Service/Zoom/Zoom Video SDK/zoom_videosdk_vid/android/app/.cxx/Debug/5v1k6f04/x86",
+  "command": "C:\\Users\\AsepSuharyadi\\AppData\\Local\\Android\\Sdk\\ndk\\23.2.8568313\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=C:/Users/AsepSuharyadi/AppData/Local/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/AsepSuharyadi/AppData/Local/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dzoom_videosdk_vid_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\zoom_videosdk_vid.dir\\zoom_videosdk_vid.cpp.o -c \"D:\\VCube Indonesia\\01-Vcube_Products_and_Service\\Zoom\\Zoom Video SDK\\zoom_videosdk_vid\\android\\app\\src\\main\\cpp\\zoom_videosdk_vid.cpp\"",
+  "file": "D:\\VCube Indonesia\\01-Vcube_Products_and_Service\\Zoom\\Zoom Video SDK\\zoom_videosdk_vid\\android\\app\\src\\main\\cpp\\zoom_videosdk_vid.cpp"
+}
+]

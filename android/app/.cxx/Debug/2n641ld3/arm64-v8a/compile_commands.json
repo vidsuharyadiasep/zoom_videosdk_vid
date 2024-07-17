@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/zoom_videosdk_vid/android/app/.cxx/Debug/2n641ld3/arm64-v8a",
+  "command": "C:\\Users\\AsepSuharyadi\\AppData\\Local\\Android\\Sdk\\ndk\\23.2.8568313\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --gcc-toolchain=C:/Users/AsepSuharyadi/AppData/Local/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/AsepSuharyadi/AppData/Local/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dzoom_videosdk_vid_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\zoom_videosdk_vid.dir\\zoom_videosdk_vid.cpp.o -c C:\\zoom_videosdk_vid\\android\\app\\src\\main\\cpp\\zoom_videosdk_vid.cpp",
+  "file": "C:\\zoom_videosdk_vid\\android\\app\\src\\main\\cpp\\zoom_videosdk_vid.cpp"
+}
+]
